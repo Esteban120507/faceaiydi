@@ -1,6 +1,22 @@
 body{
-    background-color: #f0f0f0;
+    background-color: #c77e08;
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 80;
+    padding: 10;
+}
+.contenedor {
+    margin: 0 auto;
+    width: 600px;
+}
+div#pasacosas {
+    min-height: 400px;
+    background: rgb(0, 0, 0);
+    padding: 20px;
+    margin: 20px;
+}
+
+div#label-container {
+    position: absolute;
+    bottom: 10px;
+    color: #34462f;
 }
